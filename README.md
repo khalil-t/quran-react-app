@@ -1,5 +1,24 @@
 <<<<<<< HEAD
 # quran-react-app
+# 📖 Quran Application
+
+A simple and complete Quran application that includes all 114 Surahs (chapters) of the Holy Quran. This app allows users to read and explore the Quran in a clean and user-friendly interface.
+
+## 🌟 Features
+
+- ✅ Displays all 114 Surahs with names and numbers
+- 🔍 Search functionality to quickly find a Surah
+- 📄 View full content of each Surah
+- 🌙 Beautiful UI for a peaceful reading experience
+- 📱 Responsive layout for mobile and desktop
+
+## 🧰 Built With
+
+- **React** (or specify framework you're using)
+- **CSS / TailwindCSS / MUI** (based on your styling choice)
+- **Surah Data** fetched from a static JSON file or API
+
+
 =======
 # Getting Started with Create React App
 
