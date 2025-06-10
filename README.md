@@ -52,5 +52,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## 🖼️ Website Preview
 
-![Website Screenshot](./screen/github-1.PNG)
+![Website Screenshot](./screen/github.PNG)
+![Website Screenshot](./screen/github1.PNG)
 
